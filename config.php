@@ -1,7 +1,7 @@
 <?php
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
-define('DB_PASS', '1234@AA.');
+define('DB_PASS', '');
 define('DB_NAME', 'incidencias_db');
 
 function conectarDB() {
